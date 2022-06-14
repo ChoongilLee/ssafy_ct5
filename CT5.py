@@ -45,3 +45,5 @@ for i in test_list:
 max_sum = max(sum_hardness_list)
 ans = axis_hardness[max_sum]
 print(max_sum, ans)
+
+# 최대값 25 좌표(6,1) 출력
