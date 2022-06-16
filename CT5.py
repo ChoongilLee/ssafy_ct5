@@ -2,7 +2,7 @@
 import sys
 sys.stdin=open('input.txt')
 
-# 양수를 출력하는 함수
+# 입력값의 절댓값을 출력하는 함수
 def yangsoo(n):
     if n<0:
         n *= -1
